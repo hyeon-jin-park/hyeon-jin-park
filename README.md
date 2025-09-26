@@ -1,16 +1,43 @@
-# 박현진
+# hyeon-jin-park
 
- <p> [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=hhjjpp03&theme=radical)](https://wakatime.com/)
-
-  [![Solved.ac 랭킹](http://mazassumnida.wtf/api/generate_badge?boj=hhjjpp03)](https://solved.ac/profile/hhjjpp03)</p>
-* 연락처 [![](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hhjjpp03@gmail.com)
+### 안녕하세요
+코딩공부중 입니다.
 
 
 
+<div style=" text-align: left;">
 
-## ⚙️사용 가능 기술
 
-<div align=center>
+ 
+# Works
+ 
+[![Solved.ac 랭킹](http://mazassumnida.wtf/api/generate_badge?boj=hhjjpp03)](https://solved.ac/profile/hhjjpp03) &nbsp;&nbsp;&nbsp;&nbsp; [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=hhjjpp03&theme=transparent&border_radius=10)](https://wakatime.com/)
+  
+</div>  
+
+
+<div>
+
+<h1>Contact</h1>
+<li>
+ 
+ 
+ E-mail: [![](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hhjjpp03@gmail.com)
+
+
+</li>
+ 
+ 
+</div>
+
+<br/>
+<br/>
+<br/>
+
+
+## ⚙️Tech
+
+<div align= left>
 
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
