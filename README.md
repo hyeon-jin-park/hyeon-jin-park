@@ -1,6 +1,6 @@
 # 박현진
 <div align="center">
-  [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=hhjjpp03&theme=radical)](https://wakatime.com/)
+  [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=&theme=radical)](https://wakatime.com/)
 
   [![Solved.ac 랭킹](http://mazassumnida.wtf/api/generate_badge?boj=hhjjpp03)](https://solved.ac/profile/hhjjpp03)
 * 연락처 [![](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hhjjpp03@gmail.com)
@@ -8,8 +8,9 @@
 
 ## ⚙️사용 가능 기술
 
+<div align=center>
 
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white) 
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
@@ -21,5 +22,8 @@
   ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  
+
+
+
+</div>
 
