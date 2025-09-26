@@ -11,7 +11,7 @@
  
 # Works
  
-[![Solved.ac 랭킹](http://mazassumnida.wtf/api/generate_badge?boj=hhjjpp03)](https://solved.ac/profile/hhjjpp03) &nbsp;&nbsp;&nbsp;&nbsp; [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=hhjjpp03&theme=transparent&border_radius=10)](https://wakatime.com/)
+[![Solved.ac 랭킹](http://mazassumnida.wtf/api/generate_badge?boj=hhjjpp03)](https://solved.ac/profile/hhjjpp03) &nbsp;&nbsp; [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=hhjjpp03&theme=transparent&border_radius=10)](https://wakatime.com/)
   
 </div>  
 
