@@ -1,9 +1,11 @@
 # 박현진
-<div align="center">
-  [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=&theme=radical)](https://wakatime.com/)
 
-  [![Solved.ac 랭킹](http://mazassumnida.wtf/api/generate_badge?boj=hhjjpp03)](https://solved.ac/profile/hhjjpp03)
+ <p> [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=hhjjpp03&theme=radical)](https://wakatime.com/)
+
+  [![Solved.ac 랭킹](http://mazassumnida.wtf/api/generate_badge?boj=hhjjpp03)](https://solved.ac/profile/hhjjpp03)</p>
 * 연락처 [![](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hhjjpp03@gmail.com)
+
+
 
 
 ## ⚙️사용 가능 기술
