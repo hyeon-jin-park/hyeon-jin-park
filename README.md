@@ -7,35 +7,30 @@
 
 <div style=" text-align: left;">
 
-
+# 📖 Works
  
-# Works
- 
-[![Solved.ac 랭킹](http://mazassumnida.wtf/api/generate_badge?boj=hhjjpp03)](https://solved.ac/profile/hhjjpp03) &nbsp;&nbsp; [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=hhjjpp03&theme=transparent&border_radius=10)](https://wakatime.com/)
+[![Solved.ac 랭킹](http://mazassumnida.wtf/api/generate_badge?boj=hhjjpp03)](https://solved.ac/profile/hhjjpp03) &nbsp; [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=hhjjpp03&theme=transparent&border_radius=10)](https://wakatime.com/)
   
 </div>  
 
 
-<div>
+# 💡 Contact
+ <ul>
+  <li>
 
-<h1>Contact</h1>
-<li>
- 
- 
- E-mail: [![](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hhjjpp03@gmail.com)
+   E-mail: [![](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hhjjpp03@gmail.com)
 
-
-</li>
+   </li>
+ </ul>
  
  
-</div>
 
 <br/>
 <br/>
 <br/>
 
 
-## ⚙️Tech
+# ⚙️ Tech
 
 <div align= left>
 
@@ -51,8 +46,6 @@
   ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-
 
 </div>
 
